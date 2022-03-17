@@ -8,46 +8,41 @@
 
 ## Clientes da Vu3D:
 
-<!-- <img src="img/Dahruj-Honda.jpg" width="200"/> -->
+<h4 align="left">
+Dahruj Honda Campinas</h4>
+<img src="img/Dahruj-Honda.jpg" width="260"/>
 
 <h4 align="left">
-Dahruj Honda Campinas
-</h4>
-<img src="img/Dahruj-Honda.jpg" width="200"/>
+Concorde Renault Campinas</h4>
+<img src="img/Concorde-Renault.jpg" width="260"/>
 
 <h4 align="left">
-Concorde Renault Campinas
-<img widht="30%" src="img/Concorde-Renault.jpg"/>
-</h4>
+Concorde Nissan Campinas</h4>
+<img src="img/Concorde-Nissan.jpg" width="260"/>
 
-<h4 align="center">
-Concorde Nissan Campinas
-<img src="img/Concorde-Nissan.jpg" widht="180px"/>
-</h4>
-<h4 align="center">
-Studio Motors Kawasaki Campinas
-<img src="img/Studio-Motors-Kawasaki.jpg" widht="250px"/>
-</h4>
-<h4 align="center">
-Innovare Virtual São Paulo
-<img src="img/Innovare-Virtual.jpg" widht="300px"/>
-</h4>
-<h4 align="center">
-Loja Japonesa Pedreira
-<img src="img/Loja-Japonesa.jpg" widht="300px"/>
-</h4>
-<h4 align="center">
-FAJ Campus II Jaguariúna
-<img src="img/FAJ-Campus-II.jpg" widht="300px"/>
-</h4>
-<h4 align="center">
-Parque dos Lagos Jaguariúna
-<img src="img/Parque-dos-Lagos.jpg" widht="300px"/>
-</h4>
-<h4 align="center">
-Center Louças Pedreira
-<img src="img/center-loucas.jpg" widht="300px"/>
-</h4>
+<h4 align="left">
+Studio Motors Kawasaki Campinas</h4>
+<img src="img/Studio-Motors-Kawasaki.jpg" width="260"/>
+
+<h4 align="left">
+Innovare Virtual São Paulo</h4>
+<img src="img/Innovare-Virtual.jpg" width="260"/>
+
+<h4 align="left">
+Loja Japonesa Pedreira</h4>
+<img src="img/Loja-Japonesa.jpg" width="260"/>
+
+<h4 align="left">
+FAJ Campus II Jaguariúna</h4>
+<img src="img/FAJ-Campus-II.jpg" width="260"/>
+
+<h4 align="left">
+Center Louças Pedreira</h4>
+<img src="img/center-loucas.jpg" width="260"/>
+
+<h4 align="left">
+Parque dos Lagos Jaguariúna</h4>
+<img src="img/Parque-dos-Lagos.jpg" width="260"/>
 
 ## Sobre Nós:
 
@@ -56,9 +51,10 @@ Center Louças Pedreira
 <img src="img/cartao-pesher.jpg"/>
 </h1>
 
-<h4 align="center">Pesher
-<img src="img/Pesher.jpg" widht="300px"/>
+<h4 align="center">
+<img src="img/Pesher.jpg"/>
 </h4>
+
 
 ## A Equipe:
 
@@ -77,7 +73,7 @@ Sites institucionais imersivos | Sites de alto impacto integrado em ambientes tr
 
 
 <h1 align="center">
-  <img alt="Logo Virtual Tour" title="Vu3D" src="./img/logo-virtual-tour.png" width="170px"/>
+  <img alt="Logo Virtual Tour" title="Vu3D" src="./img/logo-virtual-tour.png"/>
 </h1>
 
 ## Tecnologias:
@@ -95,7 +91,7 @@ ActionScript 3.0 | Adobe Flash CS4 | HTML | CSS | XML/SWF | JavaScript | Scripts
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./img/autora.jpeg" width="150px;" alt="Retrato"/><br>
+        <img src="./img/autora.jpeg" width="200" alt="Retrato"/><br>
         <sub>
           <b>Debh Valois</b>
         </sub>

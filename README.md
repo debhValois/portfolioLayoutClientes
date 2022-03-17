@@ -8,14 +8,18 @@
 
 ## Clientes da Vu3D:
 
-<h4 align="center">
+<!-- <img src="img/Dahruj-Honda.jpg" width="200"/> -->
+
+<h4 align="left">
 Dahruj Honda Campinas
-<img src="img/Dahruj-Honda.jpg" widht="200px"/>
 </h4>
-<h4 align="center">
+<img src="img/Dahruj-Honda.jpg" width="200"/>
+
+<h4 align="left">
 Concorde Renault Campinas
-<img src="img/Concorde-Renault.jpg" widht="150px"/>
+<img widht="30%" src="img/Concorde-Renault.jpg"/>
 </h4>
+
 <h4 align="center">
 Concorde Nissan Campinas
 <img src="img/Concorde-Nissan.jpg" widht="180px"/>

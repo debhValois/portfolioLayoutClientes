@@ -10,19 +10,19 @@
 
 <h4 align="center">
 Dahruj Honda Campinas
-<img src="img/Dahruj-Honda.jpg" widht="300px"/>
+<img src="img/Dahruj-Honda.jpg" widht="200px"/>
 </h4>
 <h4 align="center">
 Concorde Renault Campinas
-<img src="img/Concorde-Renault.jpg" widht="300px"/>
+<img src="img/Concorde-Renault.jpg" widht="150px"/>
 </h4>
 <h4 align="center">
 Concorde Nissan Campinas
-<img src="img/Concorde-Nissan.jpg" widht="300px"/>
+<img src="img/Concorde-Nissan.jpg" widht="180px"/>
 </h4>
 <h4 align="center">
 Studio Motors Kawasaki Campinas
-<img src="img/Studio-Motors-Kawasaki.jpg" widht="300px"/>
+<img src="img/Studio-Motors-Kawasaki.jpg" widht="250px"/>
 </h4>
 <h4 align="center">
 Innovare Virtual São Paulo
